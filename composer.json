@@ -1,0 +1,17 @@
+{
+    "name": "uppercod/myq",
+    "description": "Gestor sql",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Matias Trujillo",
+            "email": "mtrujillo@outlook.cl"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4": {
+            "MyQ\\" : "src/"
+        }
+    }
+}
