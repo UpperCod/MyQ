@@ -1,13 +1,15 @@
 {
     "name": "uppercod/myq",
-    "description": "Gestor sql",
+    "description": "Pequeño gestor de consultas SQL, este permite construir una consulta inmutable",
     "type": "library",
+    "keywords": ["sql","orm"],
     "authors": [
         {
             "name": "Matias Trujillo",
             "email": "mtrujillo@outlook.cl"
         }
     ],
+    "license": "Apache-2.0",
     "require": {},
     "autoload":{
         "psr-4": {
